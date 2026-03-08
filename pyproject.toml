@@ -1,0 +1,12 @@
+[project]
+name = "mat-2026-okruzno-3-razred"
+version = "0.1.0"
+description = "Analiza rezultata okružnog takmičenja iz matematike za 3. razred - Beograd 2026"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "pdfplumber>=0.11.9",
+    "seaborn>=0.13.2",
+]
